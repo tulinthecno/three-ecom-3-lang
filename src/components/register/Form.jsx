@@ -3,9 +3,11 @@ import Link from "next/link";
 const Form = () => {
   return (
 
-    
+
+
     <form action="#">
       <div className="heading text-center">
+        
         <h3>Register to your account</h3>
         {/* <p className="  xs:bg-green-400 sm:bg-blue-500  mdUp:bg-red-400">xs is HERE</p> */}
         <p className="text-center">
